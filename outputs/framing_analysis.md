@@ -1,54 +1,54 @@
 # Framing analysis
 
-## meet-congress-doctor
-- Indian Express: congress, corporator, indian, make, meet, pune, singh, wife, actor, apple
-- NDTV: according, back, city, doctor, europe, gurugram, hottest, hydraa, june, never
-- The Hindu: cinema, actors, carried, case, cream, investigation, licence, raids, section, speaker
-- Times of India: mahindra, blue, origin, argentina, egypt, full, refund, against, bezos, buyer
+## khan-indian-tamil
+- Indian Express: indian, khan, maharashtra, punjab, satluj, bengal, class, coach, congress, daily
+- NDTV: layoffs, market, microsoft, sensex, according, atluri, back, city, doctor, europe
+- The Hindu: nadu, tamil, indian, language, boat, corporation, officers, police, programme, vietnam
+- Times of India: afghanistan, city, home, living, meta, murphy, tenants, zadran, aswath, blake
 - Pairwise overlap:
-  - Indian Express: NDTV: 0.00, The Hindu: 0.00, Times of India: 0.00
-  - NDTV: Indian Express: 0.00, The Hindu: 0.00, Times of India: 0.00
-  - The Hindu: Indian Express: 0.00, NDTV: 0.00, Times of India: 0.00
-  - Times of India: Indian Express: 0.00, NDTV: 0.00, The Hindu: 0.00
+  - Indian Express: NDTV: 0.00, The Hindu: 0.05, Times of India: 0.00
+  - NDTV: Indian Express: 0.00, The Hindu: 0.00, Times of India: 0.05
+  - The Hindu: Indian Express: 0.05, NDTV: 0.00, Times of India: 0.00
+  - Times of India: Indian Express: 0.00, NDTV: 0.05, The Hindu: 0.00
 
-## new-pm-india
-- Indian Express: christopher, india, interview, july, luxon, modi, zealand, ahead, action, advance
-- NDTV: india, modi, australian, change, climate, investors, weather, advantage, australia, businesses
-- The Hindu: labour, zealand, free, india, july, modi, champat, employees, forced, office
-- Times of India: india, trade, afghanistan, applicants, immigration, tariffs, zadran, canucks, central, cricket
+## rain-monsoon-july
+- Indian Express: rain, july, maharashtra, monsoon, delhi, gujarat, heavy, alert, attack, five
+- NDTV: weather, india, live, monsoon, camp, change, climate, microsoft, nadella, satya
+- The Hindu: monsoon, july, rainfall, coach, congress, couple, death, decorator, delhi, first
+- Times of India: heavy, rain, india, cylinders, rainfall, accounts, ashwin, cricket, crore, july
 - Pairwise overlap:
-  - Indian Express: NDTV: 0.11, The Hindu: 0.25, Times of India: 0.05
-  - NDTV: Indian Express: 0.11, The Hindu: 0.11, Times of India: 0.05
-  - The Hindu: Indian Express: 0.25, NDTV: 0.11, Times of India: 0.05
+  - Indian Express: NDTV: 0.05, The Hindu: 0.18, Times of India: 0.18
+  - NDTV: Indian Express: 0.05, The Hindu: 0.05, Times of India: 0.05
+  - The Hindu: Indian Express: 0.18, NDTV: 0.05, Times of India: 0.11
+  - Times of India: Indian Express: 0.18, NDTV: 0.05, The Hindu: 0.11
+
+## pm-modi-new
+- Indian Express: modi, india, july, christopher, ahead, australia, deal, interview, luxon, protest
+- NDTV: modi, india, australian, investors, launch, advantage, amritsar, australia, businesses, crore
+- The Hindu: india, defence, modi, australia, zealand, agreement, cooperation, free, palestine, personnel
+- Times of India: india, australia, modi, trade, ketan, applicants, cooperation, critical, family, immigration
+- Pairwise overlap:
+  - Indian Express: NDTV: 0.18, The Hindu: 0.18, Times of India: 0.18
+  - NDTV: Indian Express: 0.18, The Hindu: 0.18, Times of India: 0.18
+  - The Hindu: Indian Express: 0.18, NDTV: 0.18, Times of India: 0.25
+  - Times of India: Indian Express: 0.18, NDTV: 0.18, The Hindu: 0.25
+
+## case-court-actor
+- Indian Express: court, case, actor, supreme, against, khan, plea, assault, bail, bengaluru
+- The Hindu: case, court, kerala, bench, rains, absentia, alert, arrest, assault, carried
+- Times of India: court, blue, origin, anthropic, couple, google, kher, london, same, actor
+- Pairwise overlap:
+  - Indian Express: The Hindu: 0.18, Times of India: 0.11
+  - The Hindu: Indian Express: 0.18, Times of India: 0.05
+  - Times of India: Indian Express: 0.11, The Hindu: 0.05
+
+## minister-lakh-telangana
+- Indian Express: government, minister, lakh, gets, maharashtra, projects, soon, tourism, across, agricultural
+- NDTV: lakh, accepting, arrivals, beyond, caught, choose, cost, court, custody, engineer
+- The Hindu: minister, lakh, telangana, chief, crore, labour, union, bengal, government, under
+- Times of India: lakh, posters, refund, developer, gold, silver, commission, couple, head, interest
+- Pairwise overlap:
+  - Indian Express: NDTV: 0.05, The Hindu: 0.18, Times of India: 0.05
+  - NDTV: Indian Express: 0.05, The Hindu: 0.05, Times of India: 0.05
+  - The Hindu: Indian Express: 0.18, NDTV: 0.05, Times of India: 0.05
   - Times of India: Indian Express: 0.05, NDTV: 0.05, The Hindu: 0.05
-
-## death-year-school
-- Indian Express: year, bengaluru, court, release, school, absence, accounts, admits, adult, alia
-- NDTV: atluri, accident, campaign, cousin, fundraising, indian, killed, kumar, launched, ravi
-- The Hindu: death, bengaluru, family, lanka, native, prison, riots, rohini, school, toll
-- Times of India: death, allegedly, footage, kamath, murphy, paper, show, stokes, allegations, beaten
-- Pairwise overlap:
-  - Indian Express: NDTV: 0.00, The Hindu: 0.11, Times of India: 0.00
-  - NDTV: Indian Express: 0.00, The Hindu: 0.00, Times of India: 0.00
-  - The Hindu: Indian Express: 0.11, NDTV: 0.00, Times of India: 0.05
-  - Times of India: Indian Express: 0.00, NDTV: 0.00, The Hindu: 0.05
-
-## court-khan-high-court
-- Indian Express: court, khan, high, child, delhi, karnataka, nashik, saif, should, weighs
-- The Hindu: court, raghuvanshi, savarkar, arrest, bail, complaint, election, grounds, kerala, meghalaya
-- Times of India: pawar, political, congress, party, same, chief, couple, court, department, eknath
-- Pairwise overlap:
-  - Indian Express: The Hindu: 0.05, Times of India: 0.05
-  - The Hindu: Indian Express: 0.05, Times of India: 0.05
-  - Times of India: Indian Express: 0.05, The Hindu: 0.05
-
-## iran-trump-said
-- Indian Express: iran, trump, ceasefire, missile, again, alerts, alleges, anymore, assembly, attack
-- NDTV: trump, attacks, experts, iran, iranian, nato, allies, bases, death, doesn
-- The Hindu: india, aviation, civil, fund, airport, australian, conflict, dollars, during, karnataka
-- Times of India: iran, complaint, military, strikes, fifa, infantino, trump, balogun, ethics, faces
-- Pairwise overlap:
-  - Indian Express: NDTV: 0.11, The Hindu: 0.00, Times of India: 0.11
-  - NDTV: Indian Express: 0.11, The Hindu: 0.00, Times of India: 0.11
-  - The Hindu: Indian Express: 0.00, NDTV: 0.00, Times of India: 0.00
-  - Times of India: Indian Express: 0.11, NDTV: 0.11, The Hindu: 0.00
