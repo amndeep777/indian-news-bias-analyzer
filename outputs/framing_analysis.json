@@ -1,0 +1,397 @@
+{
+  "topics": [
+    {
+      "topic": "meet-congress-doctor",
+      "sources": {
+        "Times of India": {
+          "top_keywords": [
+            "mahindra",
+            "blue",
+            "origin",
+            "argentina",
+            "egypt",
+            "full",
+            "refund",
+            "against",
+            "bezos",
+            "buyer"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "cinema",
+            "actors",
+            "carried",
+            "case",
+            "cream",
+            "investigation",
+            "licence",
+            "raids",
+            "section",
+            "speaker"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "congress",
+            "corporator",
+            "indian",
+            "make",
+            "meet",
+            "pune",
+            "singh",
+            "wife",
+            "actor",
+            "apple"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "according",
+            "back",
+            "city",
+            "doctor",
+            "europe",
+            "gurugram",
+            "hottest",
+            "hydraa",
+            "june",
+            "never"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.0,
+          "The Hindu": 0.0,
+          "Times of India": 0.0
+        },
+        "NDTV": {
+          "Indian Express": 0.0,
+          "The Hindu": 0.0,
+          "Times of India": 0.0
+        },
+        "The Hindu": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "Times of India": 0.0
+        },
+        "Times of India": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "The Hindu": 0.0
+        }
+      }
+    },
+    {
+      "topic": "new-pm-india",
+      "sources": {
+        "NDTV": {
+          "top_keywords": [
+            "india",
+            "modi",
+            "australian",
+            "change",
+            "climate",
+            "investors",
+            "weather",
+            "advantage",
+            "australia",
+            "businesses"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "india",
+            "trade",
+            "afghanistan",
+            "applicants",
+            "immigration",
+            "tariffs",
+            "zadran",
+            "canucks",
+            "central",
+            "cricket"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "labour",
+            "zealand",
+            "free",
+            "india",
+            "july",
+            "modi",
+            "champat",
+            "employees",
+            "forced",
+            "office"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "christopher",
+            "india",
+            "interview",
+            "july",
+            "luxon",
+            "modi",
+            "zealand",
+            "ahead",
+            "action",
+            "advance"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.25,
+          "Times of India": 0.053
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.111,
+          "Times of India": 0.053
+        },
+        "The Hindu": {
+          "Indian Express": 0.25,
+          "NDTV": 0.111,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.053,
+          "NDTV": 0.053,
+          "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "death-year-school",
+      "sources": {
+        "Times of India": {
+          "top_keywords": [
+            "death",
+            "allegedly",
+            "footage",
+            "kamath",
+            "murphy",
+            "paper",
+            "show",
+            "stokes",
+            "allegations",
+            "beaten"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "year",
+            "bengaluru",
+            "court",
+            "release",
+            "school",
+            "absence",
+            "accounts",
+            "admits",
+            "adult",
+            "alia"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "death",
+            "bengaluru",
+            "family",
+            "lanka",
+            "native",
+            "prison",
+            "riots",
+            "rohini",
+            "school",
+            "toll"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "atluri",
+            "accident",
+            "campaign",
+            "cousin",
+            "fundraising",
+            "indian",
+            "killed",
+            "kumar",
+            "launched",
+            "ravi"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.0,
+          "The Hindu": 0.111,
+          "Times of India": 0.0
+        },
+        "NDTV": {
+          "Indian Express": 0.0,
+          "The Hindu": 0.0,
+          "Times of India": 0.0
+        },
+        "The Hindu": {
+          "Indian Express": 0.111,
+          "NDTV": 0.0,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "court-khan-high-court",
+      "sources": {
+        "Indian Express": {
+          "top_keywords": [
+            "court",
+            "khan",
+            "high",
+            "child",
+            "delhi",
+            "karnataka",
+            "nashik",
+            "saif",
+            "should",
+            "weighs"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "court",
+            "raghuvanshi",
+            "savarkar",
+            "arrest",
+            "bail",
+            "complaint",
+            "election",
+            "grounds",
+            "kerala",
+            "meghalaya"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "pawar",
+            "political",
+            "congress",
+            "party",
+            "same",
+            "chief",
+            "couple",
+            "court",
+            "department",
+            "eknath"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "The Hindu": 0.053,
+          "Times of India": 0.053
+        },
+        "The Hindu": {
+          "Indian Express": 0.053,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.053,
+          "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "iran-trump-said",
+      "sources": {
+        "Times of India": {
+          "top_keywords": [
+            "iran",
+            "complaint",
+            "military",
+            "strikes",
+            "fifa",
+            "infantino",
+            "trump",
+            "balogun",
+            "ethics",
+            "faces"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "iran",
+            "trump",
+            "ceasefire",
+            "missile",
+            "again",
+            "alerts",
+            "alleges",
+            "anymore",
+            "assembly",
+            "attack"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "india",
+            "aviation",
+            "civil",
+            "fund",
+            "airport",
+            "australian",
+            "conflict",
+            "dollars",
+            "during",
+            "karnataka"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "trump",
+            "attacks",
+            "experts",
+            "iran",
+            "iranian",
+            "nato",
+            "allies",
+            "bases",
+            "death",
+            "doesn"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.0,
+          "Times of India": 0.111
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.0,
+          "Times of India": 0.111
+        },
+        "The Hindu": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "Times of India": 0.0
+        },
+        "Times of India": {
+          "Indian Express": 0.111,
+          "NDTV": 0.111,
+          "The Hindu": 0.0
+        }
+      }
+    }
+  ]
+}
