@@ -1,62 +1,145 @@
 {
   "topics": [
     {
-      "topic": "actor-high-pune",
+      "topic": "punjab-khan-satluj",
       "sources": {
+        "The Hindu": {
+          "top_keywords": [
+            "minister",
+            "singh",
+            "nadu",
+            "tamil",
+            "punjab",
+            "kerala",
+            "police",
+            "state",
+            "union",
+            "boat"
+          ]
+        },
         "Indian Express": {
           "top_keywords": [
-            "pune",
-            "against",
-            "high",
-            "maharashtra",
-            "class",
-            "rain",
-            "world",
+            "punjab",
+            "satluj",
+            "bengaluru",
+            "case",
+            "khan",
+            "singh",
             "actor",
-            "congress",
-            "court"
+            "pune",
+            "does",
+            "meet"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "cricket",
-            "india",
-            "trade",
-            "blue",
-            "origin",
-            "actor",
-            "afghanistan",
-            "anthropic",
-            "applicants",
-            "argentina"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "heavy",
-            "wayanad",
-            "alert",
-            "cinema",
-            "high",
-            "india",
-            "kerala",
+            "pawar",
+            "mahindra",
+            "paper",
             "police",
-            "rains",
-            "sought"
+            "political",
+            "turtle",
+            "accounts",
+            "afghanistan",
+            "congress"
           ]
         },
         "NDTV": {
           "top_keywords": [
             "back",
-            "market",
-            "sensex",
-            "according",
-            "bangkok",
-            "city",
-            "dead",
             "doctor",
             "europe",
-            "gurugram"
+            "hottest",
+            "june",
+            "never",
+            "public",
+            "women",
+            "according",
+            "apps"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.0,
+          "The Hindu": 0.111,
+          "Times of India": 0.0
+        },
+        "NDTV": {
+          "Indian Express": 0.0,
+          "The Hindu": 0.0,
+          "Times of India": 0.0
+        },
+        "The Hindu": {
+          "Indian Express": 0.111,
+          "NDTV": 0.0,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "india-ai-new",
+      "sources": {
+        "Times of India": {
+          "top_keywords": [
+            "india",
+            "blue",
+            "origin",
+            "australia",
+            "critical",
+            "kamath",
+            "meta",
+            "surveillance",
+            "tariffs",
+            "tech"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "india",
+            "years",
+            "back",
+            "changes",
+            "deal",
+            "latest",
+            "role",
+            "than",
+            "time",
+            "again"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "india",
+            "defence",
+            "during",
+            "personnel",
+            "technology",
+            "conflict",
+            "cooperation",
+            "leak",
+            "meta",
+            "pakistan"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "microsoft",
+            "layoffs",
+            "companies",
+            "crypto",
+            "indo",
+            "nadella",
+            "opinion",
+            "pacific",
+            "satya",
+            "america"
           ]
         }
       },
@@ -74,344 +157,261 @@
         "The Hindu": {
           "Indian Express": 0.053,
           "NDTV": 0.0,
-          "Times of India": 0.053
-        },
-        "Times of India": {
-          "Indian Express": 0.053,
-          "NDTV": 0.0,
-          "The Hindu": 0.053
-        }
-      }
-    },
-    {
-      "topic": "july-2026-protest",
-      "sources": {
-        "Indian Express": {
-          "top_keywords": [
-            "july",
-            "protest",
-            "live",
-            "updates",
-            "fuel",
-            "iran",
-            "writes",
-            "high",
-            "india",
-            "maharashtra"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "live",
-            "updates",
-            "global",
-            "market",
-            "sensex",
-            "camp",
-            "iran",
-            "monsoon",
-            "stock",
-            "weather"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "july",
-            "crore",
-            "lakh",
-            "palestine",
-            "coach",
-            "corporate",
-            "couple",
-            "decorator",
-            "first",
-            "hired"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "ketan",
-            "heavy",
-            "india",
-            "july",
-            "justice",
-            "same",
-            "show",
-            "agarwal",
-            "back",
-            "bieber"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.176,
-          "The Hindu": 0.053,
           "Times of India": 0.111
         },
-        "NDTV": {
-          "Indian Express": 0.176,
-          "The Hindu": 0.0,
-          "Times of India": 0.0
-        },
-        "The Hindu": {
+        "Times of India": {
           "Indian Express": 0.053,
           "NDTV": 0.0,
-          "Times of India": 0.053
-        },
-        "Times of India": {
-          "Indian Express": 0.111,
-          "NDTV": 0.0,
-          "The Hindu": 0.053
+          "The Hindu": 0.111
         }
       }
     },
     {
-      "topic": "delhi-indian-people",
+      "topic": "rs-lakh-crore",
       "sources": {
         "Indian Express": {
           "top_keywords": [
-            "delhi",
-            "indian",
-            "bengaluru",
-            "rain",
-            "across",
-            "assault",
-            "confidential",
-            "heavy",
-            "here",
-            "housing"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "indian",
-            "language",
-            "cbse",
-            "already",
-            "chembur",
-            "data",
-            "debris",
-            "green",
-            "hear",
-            "hindi"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "bezos",
-            "fund",
-            "india",
-            "indian",
-            "vessels",
-            "attacks",
-            "cities",
-            "climate",
-            "earth",
-            "gold"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "layoffs",
-            "microsoft",
-            "people",
-            "delhi",
-            "experts",
-            "high",
-            "iranian",
-            "architects",
-            "attacks",
-            "bases"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.053,
-          "The Hindu": 0.053,
-          "Times of India": 0.053
-        },
-        "NDTV": {
-          "Indian Express": 0.053,
-          "The Hindu": 0.0,
-          "Times of India": 0.053
-        },
-        "The Hindu": {
-          "Indian Express": 0.053,
-          "NDTV": 0.0,
-          "Times of India": 0.053
-        },
-        "Times of India": {
-          "Indian Express": 0.053,
-          "NDTV": 0.053,
-          "The Hindu": 0.053
-        }
-      }
-    },
-    {
-      "topic": "man-year-wins",
-      "sources": {
-        "Indian Express": {
-          "top_keywords": [
-            "year",
+            "crore",
             "lakh",
             "payout",
+            "gets",
+            "worth",
+            "announces",
+            "assets",
             "bank",
-            "court",
-            "relief",
-            "consumer",
-            "delhi",
             "delivered",
-            "family"
+            "dhurandhar"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "lakh",
+            "crore",
+            "telangana",
+            "case",
+            "annual",
+            "bengal",
+            "centre",
+            "corporate",
+            "engineer",
+            "miyapur"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "commission",
-            "mahindra",
-            "turtle",
-            "full",
+            "lakh",
+            "refund",
+            "crore",
+            "developer",
+            "gold",
             "mart",
             "mega",
-            "refund",
-            "shell",
-            "vishal",
-            "buyer"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "programme",
-            "year",
-            "farmers",
-            "financial",
-            "literacy",
-            "bank",
-            "breed",
-            "canara",
-            "collaboration",
-            "conducted"
+            "silver",
+            "vishal"
           ]
         },
         "NDTV": {
           "top_keywords": [
-            "assam",
-            "atluri",
+            "lakh",
+            "crore",
+            "fraud",
             "call",
-            "campaign",
             "centres",
             "insurance",
-            "locals",
             "mumbai",
-            "public",
-            "women"
+            "sooryavanshi",
+            "vaibhav",
+            "whatsapp"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.0,
+          "NDTV": 0.111,
           "The Hindu": 0.111,
-          "Times of India": 0.0
+          "Times of India": 0.111
         },
         "NDTV": {
-          "Indian Express": 0.0,
-          "The Hindu": 0.0,
-          "Times of India": 0.0
+          "Indian Express": 0.111,
+          "The Hindu": 0.111,
+          "Times of India": 0.111
         },
         "The Hindu": {
           "Indian Express": 0.111,
-          "NDTV": 0.0,
-          "Times of India": 0.0
+          "NDTV": 0.111,
+          "Times of India": 0.111
         },
         "Times of India": {
-          "Indian Express": 0.0,
-          "NDTV": 0.0,
-          "The Hindu": 0.0
+          "Indian Express": 0.111,
+          "NDTV": 0.111,
+          "The Hindu": 0.111
         }
       }
     },
     {
-      "topic": "trump-court-supreme-court",
+      "topic": "rain-monsoon-heavy",
       "sources": {
-        "Times of India": {
-          "top_keywords": [
-            "court",
-            "billion",
-            "iran",
-            "supreme",
-            "trump",
-            "complaint",
-            "policy",
-            "tariffs",
-            "fifa",
-            "golden"
-          ]
-        },
         "Indian Express": {
           "top_keywords": [
-            "trump",
-            "court",
-            "supreme",
-            "iran",
-            "hormuz",
-            "billion",
-            "cargo",
-            "deal",
-            "dismisses",
-            "india"
+            "rain",
+            "july",
+            "delhi",
+            "heavy",
+            "india",
+            "maharashtra",
+            "monsoon",
+            "across",
+            "alert",
+            "flood"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "heavy",
+            "rain",
+            "india",
+            "cylinders",
+            "rainfall",
+            "july",
+            "monsoon",
+            "structural",
+            "weather",
+            "across"
           ]
         },
         "The Hindu": {
           "top_keywords": [
-            "court",
-            "supreme",
-            "raghuvanshi",
-            "savarkar",
-            "appointed",
-            "bail",
-            "case",
-            "complaint",
-            "meghalaya",
-            "order"
+            "monsoon",
+            "wayanad",
+            "heavy",
+            "kerala",
+            "rainfall",
+            "rains",
+            "unjha",
+            "alert",
+            "brahmos",
+            "continue"
           ]
         },
         "NDTV": {
           "top_keywords": [
-            "trump",
-            "crypto",
-            "nato",
-            "allies",
-            "attacks",
-            "bill",
-            "clear",
-            "companies",
-            "confidence",
-            "doesn"
+            "weather",
+            "india",
+            "live",
+            "monsoon",
+            "camp",
+            "change",
+            "climate",
+            "overnight",
+            "temperatures",
+            "updates"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.053,
-          "The Hindu": 0.111,
-          "Times of India": 0.333
+          "NDTV": 0.111,
+          "The Hindu": 0.176,
+          "Times of India": 0.429
         },
         "NDTV": {
-          "Indian Express": 0.053,
-          "The Hindu": 0.0,
-          "Times of India": 0.053
+          "Indian Express": 0.111,
+          "The Hindu": 0.053,
+          "Times of India": 0.176
         },
         "The Hindu": {
-          "Indian Express": 0.111,
-          "NDTV": 0.0,
+          "Indian Express": 0.176,
+          "NDTV": 0.053,
           "Times of India": 0.176
         },
         "Times of India": {
-          "Indian Express": 0.333,
-          "NDTV": 0.053,
+          "Indian Express": 0.429,
+          "NDTV": 0.176,
           "The Hindu": 0.176
+        }
+      }
+    },
+    {
+      "topic": "year-old-year-old",
+      "sources": {
+        "Indian Express": {
+          "top_keywords": [
+            "year",
+            "court",
+            "murder",
+            "child",
+            "family",
+            "health",
+            "held",
+            "lakh",
+            "rape",
+            "accident"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "year",
+            "noodles",
+            "allegedly",
+            "anthropic",
+            "applicants",
+            "death",
+            "google",
+            "history",
+            "immigration",
+            "london"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "palestine",
+            "programme",
+            "year",
+            "arrest",
+            "blast",
+            "century",
+            "champat",
+            "farmers",
+            "financial",
+            "govt"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "atluri",
+            "bangkok",
+            "found",
+            "locals",
+            "year",
+            "accident",
+            "around",
+            "assam",
+            "back",
+            "campaign"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.053,
+          "Times of India": 0.053
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.053,
+          "Times of India": 0.053
+        },
+        "The Hindu": {
+          "Indian Express": 0.053,
+          "NDTV": 0.053,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.053,
+          "NDTV": 0.053,
+          "The Hindu": 0.053
         }
       }
     }
