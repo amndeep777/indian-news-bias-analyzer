@@ -1,20 +1,34 @@
 {
   "topics": [
     {
-      "topic": "world-year-indian",
+      "topic": "world-indian-2026",
       "sources": {
         "Indian Express": {
           "top_keywords": [
-            "year",
             "khan",
-            "pune",
             "world",
-            "first",
             "indian",
-            "maharashtra",
-            "case",
-            "court",
-            "england"
+            "first",
+            "punjab",
+            "against",
+            "mumbai",
+            "argentina",
+            "bengal",
+            "daily"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "kerala",
+            "nadu",
+            "tamil",
+            "karnataka",
+            "government",
+            "indian",
+            "district",
+            "telangana",
+            "committee",
+            "crore"
           ]
         },
         "Times of India": {
@@ -22,13 +36,13 @@
             "world",
             "fifa",
             "argentina",
-            "google",
-            "team",
-            "commission",
-            "england",
-            "blue",
-            "chinese",
-            "food"
+            "india",
+            "market",
+            "million",
+            "cricket",
+            "housing",
+            "drone",
+            "spain"
           ]
         },
         "NDTV": {
@@ -37,26 +51,12 @@
             "sensex",
             "stock",
             "highlights",
-            "indian",
             "killed",
-            "boat",
-            "children",
-            "fire",
-            "kills"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "telangana",
-            "year",
-            "students",
-            "india",
-            "karnataka",
-            "language",
-            "programme",
-            "temple",
-            "defence",
-            "district"
+            "assam",
+            "back",
+            "indian",
+            "according",
+            "boat"
           ]
         }
       },
@@ -68,335 +68,169 @@
         },
         "NDTV": {
           "Indian Express": 0.053,
-          "The Hindu": 0.0,
-          "Times of India": 0.0
+          "The Hindu": 0.053,
+          "Times of India": 0.053
         },
         "The Hindu": {
           "Indian Express": 0.053,
-          "NDTV": 0.0,
+          "NDTV": 0.053,
           "Times of India": 0.0
         },
         "Times of India": {
           "Indian Express": 0.111,
-          "NDTV": 0.0,
+          "NDTV": 0.053,
           "The Hindu": 0.0
         }
       }
     },
     {
-      "topic": "india-supreme-court-supreme",
+      "topic": "police-protest-action",
+      "sources": {
+        "The Hindu": {
+          "top_keywords": [
+            "police",
+            "july",
+            "singh",
+            "station",
+            "action",
+            "against",
+            "chief",
+            "arrested",
+            "case",
+            "kumar"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "police",
+            "protest",
+            "protests",
+            "student",
+            "action",
+            "review",
+            "students",
+            "indian",
+            "july",
+            "arrested"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "police",
+            "family",
+            "force",
+            "ketan",
+            "protest",
+            "booth",
+            "death",
+            "door",
+            "group",
+            "jana"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "police",
+            "booth",
+            "death",
+            "exam",
+            "force",
+            "government",
+            "help",
+            "minutes",
+            "ndtv",
+            "nirmala"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.053,
+          "The Hindu": 0.25,
+          "Times of India": 0.111
+        },
+        "NDTV": {
+          "Indian Express": 0.053,
+          "The Hindu": 0.053,
+          "Times of India": 0.25
+        },
+        "The Hindu": {
+          "Indian Express": 0.25,
+          "NDTV": 0.053,
+          "Times of India": 0.053
+        },
+        "Times of India": {
+          "Indian Express": 0.111,
+          "NDTV": 0.25,
+          "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "india-vs-england",
       "sources": {
         "Indian Express": {
           "top_keywords": [
             "india",
-            "court",
-            "supreme",
             "england",
             "live",
-            "back",
+            "t20i",
+            "zimbabwe",
+            "medal",
             "rohit",
-            "russian",
-            "woman",
-            "billion"
+            "year",
+            "australia",
+            "back"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "india",
-            "tariffs",
-            "court",
             "england",
-            "office",
-            "buttler",
-            "gambhir",
+            "t20i",
             "rohit",
             "series",
-            "sharma"
+            "sharma",
+            "bumrah",
+            "heavy",
+            "office",
+            "surveillance"
           ]
         },
         "The Hindu": {
           "top_keywords": [
             "india",
-            "court",
-            "supreme",
             "trade",
             "deal",
             "during",
             "economic",
             "july",
             "palestine",
-            "agreement"
+            "agreement",
+            "came",
+            "ceta"
           ]
         },
         "NDTV": {
           "top_keywords": [
             "india",
-            "weather",
             "change",
             "climate",
             "flood",
-            "live",
-            "monsoon",
+            "indo",
+            "lakh",
+            "opinion",
+            "pacific",
             "pakistan",
-            "updates",
-            "advisory"
+            "weather"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.111,
-          "The Hindu": 0.176,
-          "Times of India": 0.25
-        },
-        "NDTV": {
-          "Indian Express": 0.111,
+          "NDTV": 0.053,
           "The Hindu": 0.053,
-          "Times of India": 0.053
-        },
-        "The Hindu": {
-          "Indian Express": 0.176,
-          "NDTV": 0.053,
-          "Times of India": 0.111
-        },
-        "Times of India": {
-          "Indian Express": 0.25,
-          "NDTV": 0.053,
-          "The Hindu": 0.111
-        }
-      }
-    },
-    {
-      "topic": "delhi-paper-leak",
-      "sources": {
-        "Indian Express": {
-          "top_keywords": [
-            "delhi",
-            "family",
-            "bail",
-            "doctor",
-            "court",
-            "paper",
-            "assault",
-            "case",
-            "corporator",
-            "leak"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "paper",
-            "family",
-            "delhi",
-            "leak",
-            "court",
-            "neet",
-            "jail",
-            "meetings",
-            "video",
-            "afghanistan"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "leak",
-            "cases",
-            "paper",
-            "case",
-            "family",
-            "part",
-            "registered",
-            "students",
-            "three",
-            "union"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "paper",
-            "doctor",
-            "leak",
-            "neet",
-            "protesters",
-            "resignation",
-            "sources",
-            "back",
-            "cases",
-            "courts"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.176,
-          "The Hindu": 0.25,
-          "Times of India": 0.333
-        },
-        "NDTV": {
-          "Indian Express": 0.176,
-          "The Hindu": 0.176,
-          "Times of India": 0.176
-        },
-        "The Hindu": {
-          "Indian Express": 0.25,
-          "NDTV": 0.176,
-          "Times of India": 0.176
-        },
-        "Times of India": {
-          "Indian Express": 0.333,
-          "NDTV": 0.176,
-          "The Hindu": 0.176
-        }
-      }
-    },
-    {
-      "topic": "rs-crore-lakh",
-      "sources": {
-        "Indian Express": {
-          "top_keywords": [
-            "crore",
-            "lakh",
-            "payout",
-            "bank",
-            "assets",
-            "claim",
-            "delhi",
-            "family",
-            "gets",
-            "home"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "lakh",
-            "crore",
-            "scheme",
-            "corporate",
-            "accepting",
-            "approves",
-            "around",
-            "assistant",
-            "attract",
-            "breakfast"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "crore",
-            "gold",
-            "scheme",
-            "silver",
-            "cabinet",
-            "chemical",
-            "dhamaal",
-            "film",
-            "head",
-            "lakh"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "crore",
-            "lakh",
-            "fraud",
-            "sooryavanshi",
-            "vaibhav",
-            "whatsapp",
-            "worth",
-            "accepting",
-            "accountant",
-            "around"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.111,
-          "The Hindu": 0.111,
-          "Times of India": 0.111
-        },
-        "NDTV": {
-          "Indian Express": 0.111,
-          "The Hindu": 0.25,
-          "Times of India": 0.111
-        },
-        "The Hindu": {
-          "Indian Express": 0.111,
-          "NDTV": 0.25,
-          "Times of India": 0.176
-        },
-        "Times of India": {
-          "Indian Express": 0.111,
-          "NDTV": 0.111,
-          "The Hindu": 0.176
-        }
-      }
-    },
-    {
-      "topic": "tamil-nadu-tamil-nadu",
-      "sources": {
-        "The Hindu": {
-          "top_keywords": [
-            "nadu",
-            "tamil",
-            "chief",
-            "minister",
-            "government",
-            "vijay",
-            "kerala",
-            "party",
-            "govt",
-            "join"
-          ]
-        },
-        "Indian Express": {
-          "top_keywords": [
-            "jana",
-            "nayagan",
-            "vijay",
-            "minister",
-            "tamil",
-            "temple",
-            "chief",
-            "down",
-            "nadu",
-            "release"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "party",
-            "pawar",
-            "political",
-            "posters",
-            "bypoll",
-            "congress",
-            "india",
-            "jana",
-            "july",
-            "nayagan"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "chief",
-            "justice",
-            "kant",
-            "ndtv",
-            "surya",
-            "clarifies",
-            "exclusive",
-            "india",
-            "remark",
-            "speaks"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.053,
-          "The Hindu": 0.333,
-          "Times of India": 0.111
+          "Times of India": 0.25
         },
         "NDTV": {
           "Indian Express": 0.053,
@@ -404,14 +238,180 @@
           "Times of India": 0.053
         },
         "The Hindu": {
-          "Indian Express": 0.333,
+          "Indian Express": 0.053,
           "NDTV": 0.053,
           "Times of India": 0.053
         },
         "Times of India": {
-          "Indian Express": 0.111,
+          "Indian Express": 0.25,
           "NDTV": 0.053,
           "The Hindu": 0.053
+        }
+      }
+    },
+    {
+      "topic": "new-modi-pm",
+      "sources": {
+        "Indian Express": {
+          "top_keywords": [
+            "modi",
+            "shows",
+            "railway",
+            "australia",
+            "christopher",
+            "india",
+            "interview",
+            "luxon",
+            "visit",
+            "zealand"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "modi",
+            "india",
+            "australian",
+            "force",
+            "task",
+            "founder",
+            "investors",
+            "launch",
+            "parliament",
+            "accelerators"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "australia",
+            "india",
+            "modi",
+            "city",
+            "trade",
+            "york",
+            "applicants",
+            "boost",
+            "charan",
+            "climbers"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "modi",
+            "india",
+            "australia",
+            "defence",
+            "zealand",
+            "agreement",
+            "cabinet",
+            "cooperation",
+            "free",
+            "personnel"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.25,
+          "Times of India": 0.176
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.111,
+          "Times of India": 0.111
+        },
+        "The Hindu": {
+          "Indian Express": 0.25,
+          "NDTV": 0.111,
+          "Times of India": 0.176
+        },
+        "Times of India": {
+          "Indian Express": 0.176,
+          "NDTV": 0.111,
+          "The Hindu": 0.176
+        }
+      }
+    },
+    {
+      "topic": "ai-says-years",
+      "sources": {
+        "Indian Express": {
+          "top_keywords": [
+            "years",
+            "khan",
+            "anthropic",
+            "claude",
+            "india",
+            "later",
+            "meta",
+            "punjab",
+            "study",
+            "aamir"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "google",
+            "nvidia",
+            "gemini",
+            "years",
+            "blue",
+            "openai",
+            "origin",
+            "space",
+            "anthropic",
+            "brin"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "government",
+            "human",
+            "singh",
+            "elephants",
+            "industry",
+            "kerala",
+            "party",
+            "schools",
+            "technology",
+            "wild"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "microsoft",
+            "layoffs",
+            "anthropic",
+            "claude",
+            "companies",
+            "crypto",
+            "nadella",
+            "personality",
+            "satya",
+            "bill"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.0,
+          "Times of India": 0.111
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.0,
+          "Times of India": 0.053
+        },
+        "The Hindu": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "Times of India": 0.0
+        },
+        "Times of India": {
+          "Indian Express": 0.111,
+          "NDTV": 0.053,
+          "The Hindu": 0.0
         }
       }
     }
