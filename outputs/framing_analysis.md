@@ -1,54 +1,56 @@
 # Framing analysis
 
-## new-police-delhi
-- Indian Express: delhi, khan, police, years, year, pune, indian, mumbai, government, back
-- NDTV: police, assam, government, dead, hussain, indian, killed, representational, tahir, death
-- The Hindu: police, kerala, government, year, july, karnataka, state, against, hyderabad, lakh
-- Times of India: police, family, city, england, china, cricket, year, army, india, these
+## ai-2026-government
+- Indian Express: delhi, khan, government, pune, indian, first, mumbai, police, daily, gujarat
+- NDTV: market, opinion, sensex, assam, government, video, china, dead, injured, killed
+- The Hindu: kerala, police, water, government, state, under, against, karnataka, lakh, august
+- Times of India: google, fire, cricket, housing, these, army, return, test, court, family
 - Pairwise overlap:
-  - Indian Express: NDTV: 0.18, The Hindu: 0.18, Times of India: 0.11
-  - NDTV: Indian Express: 0.18, The Hindu: 0.11, Times of India: 0.05
-  - The Hindu: Indian Express: 0.18, NDTV: 0.11, Times of India: 0.11
-  - Times of India: Indian Express: 0.11, NDTV: 0.05, The Hindu: 0.11
+  - Indian Express: NDTV: 0.05, The Hindu: 0.11, Times of India: 0.00
+  - NDTV: Indian Express: 0.05, The Hindu: 0.05, Times of India: 0.00
+  - The Hindu: Indian Express: 0.11, NDTV: 0.05, Times of India: 0.00
+  - Times of India: Indian Express: 0.00, NDTV: 0.00, The Hindu: 0.00
 
-## says-cjp-minister
-- Indian Express: students, jantar, mantar, protest, wangchuk, sonam, minister, delhi, protesters, centre
-- NDTV: minister, protesters, action, delhi, against, bittu, contest, government, legal, likely
-- The Hindu: minister, students, chief, kerala, labour, government, union, against, protest, should
-- Times of India: wangchuk, delhi, congress, sonam, hunger, minister, strike, protest, party, police
+## india-supreme-court-supreme
+- Indian Express: india, court, supreme, live, games, commonwealth, medal, test, england, list
+- NDTV: india, force, pakistan, task, change, climate, court, exam, flood, investor
+- The Hindu: india, court, supreme, trade, defence, economic, forced, global, labour, pakistan
+- Times of India: india, games, tariffs, test, commonwealth, series, t20i, captain, gold, pakistan
 - Pairwise overlap:
-  - Indian Express: NDTV: 0.18, The Hindu: 0.18, Times of India: 0.33
-  - NDTV: Indian Express: 0.18, The Hindu: 0.18, Times of India: 0.11
+  - Indian Express: NDTV: 0.11, The Hindu: 0.18, Times of India: 0.25
+  - NDTV: Indian Express: 0.11, The Hindu: 0.18, Times of India: 0.11
   - The Hindu: Indian Express: 0.18, NDTV: 0.18, Times of India: 0.11
-  - Times of India: Indian Express: 0.33, NDTV: 0.11, The Hindu: 0.11
-
-## india-iran-hormuz
-- Indian Express: india, iran, hormuz, trump, live, strait, england, indian, strikes, t20i
-- NDTV: iran, market, india, sensex, stock, opinion, highlights, hormuz, khamenei, trump
-- The Hindu: india, trade, agreement, deal, defence, economic, global, pakistan, affairs, comprehensive
-- Times of India: india, iran, t20i, captain, hormuz, military, nuclear, pakistan, series, strikes
-- Pairwise overlap:
-  - Indian Express: NDTV: 0.25, The Hindu: 0.05, Times of India: 0.33
-  - NDTV: Indian Express: 0.25, The Hindu: 0.05, Times of India: 0.18
-  - The Hindu: Indian Express: 0.05, NDTV: 0.05, Times of India: 0.11
-  - Times of India: Indian Express: 0.33, NDTV: 0.18, The Hindu: 0.11
-
-## 2026-world-cup
-- Indian Express: world, india, july, live, games, commonwealth, list, gold, fifa, medal
-- The Hindu: fifa, matches, world, restaurants, till, assam, bengaluru, extend, football, former
-- Times of India: fifa, world, games, argentina, commonwealth, india, record, egypt, final, first
-- Pairwise overlap:
-  - Indian Express: The Hindu: 0.11, Times of India: 0.33
-  - The Hindu: Indian Express: 0.11, Times of India: 0.11
-  - Times of India: Indian Express: 0.33, The Hindu: 0.11
+  - Times of India: Indian Express: 0.25, NDTV: 0.11, The Hindu: 0.11
 
 ## rs-crore-lakh
-- Indian Express: crore, lakh, worth, earns, assets, delhi, gets, house, indian, woman
-- NDTV: crore, lakh, fraud, approves, arrested, cabinet, call, centres, exploration, fy27
-- The Hindu: crore, lakh, development, scheme, temple, alleges, around, bengal, centre, corporate
-- Times of India: crore, cabinet, lakh, project, scheme, approved, mumbai, anushka, approves, business
+- Indian Express: lakh, crore, payout, woman, bank, office, delhi, film, gets, collection
+- NDTV: crore, mumbai, lakh, fraud, approves, cabinet, call, centres, city, exploration
+- The Hindu: lakh, crore, scheme, bengal, centre, corporate, hour, roads, allots, approves
+- Times of India: crore, lakh, cabinet, film, scheme, mumbai, refund, anushka, approved, business
 - Pairwise overlap:
-  - Indian Express: NDTV: 0.11, The Hindu: 0.11, Times of India: 0.11
-  - NDTV: Indian Express: 0.11, The Hindu: 0.11, Times of India: 0.25
-  - The Hindu: Indian Express: 0.11, NDTV: 0.11, Times of India: 0.18
-  - Times of India: Indian Express: 0.11, NDTV: 0.25, The Hindu: 0.18
+  - Indian Express: NDTV: 0.11, The Hindu: 0.11, Times of India: 0.18
+  - NDTV: Indian Express: 0.11, The Hindu: 0.18, Times of India: 0.25
+  - The Hindu: Indian Express: 0.11, NDTV: 0.18, Times of India: 0.18
+  - Times of India: Indian Express: 0.18, NDTV: 0.25, The Hindu: 0.18
+
+## students-cjp-jantar-mantar
+- Indian Express: students, jantar, mantar, wangchuk, protest, sonam, delhi, protests, government, leak
+- NDTV: live, protesters, updates, paper, parliament, session, delhi, leak, monsoon, action
+- The Hindu: students, protest, against, government, cases, delhi, wangchuk, fast, hunger, jantar
+- Times of India: wangchuk, delhi, government, paper, sonam, hunger, leak, strike, students, protest
+- Pairwise overlap:
+  - Indian Express: NDTV: 0.11, The Hindu: 0.43, Times of India: 0.54
+  - NDTV: Indian Express: 0.11, The Hindu: 0.05, Times of India: 0.18
+  - The Hindu: Indian Express: 0.43, NDTV: 0.05, Times of India: 0.43
+  - Times of India: Indian Express: 0.54, NDTV: 0.18, The Hindu: 0.43
+
+## police-old-man
+- Indian Express: year, police, arrested, court, girl, murder, protest, rape, woman, death
+- NDTV: police, arrested, death, year, girl, assam, body, locals, wife, atluri
+- The Hindu: police, arrested, year, allegedly, death, murder, thiruvananthapuram, arrest, dispute, kerala
+- Times of India: police, year, allegedly, driver, woman, body, death, family, group, noodles
+- Pairwise overlap:
+  - Indian Express: NDTV: 0.33, The Hindu: 0.33, Times of India: 0.25
+  - NDTV: Indian Express: 0.33, The Hindu: 0.25, Times of India: 0.25
+  - The Hindu: Indian Express: 0.33, NDTV: 0.25, Times of India: 0.25
+  - Times of India: Indian Express: 0.25, NDTV: 0.25, The Hindu: 0.25

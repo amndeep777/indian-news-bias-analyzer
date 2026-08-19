@@ -1,311 +1,167 @@
 {
   "topics": [
     {
-      "topic": "new-police-delhi",
+      "topic": "ai-2026-government",
       "sources": {
-        "The Hindu": {
-          "top_keywords": [
-            "police",
-            "kerala",
-            "government",
-            "year",
-            "july",
-            "karnataka",
-            "state",
-            "against",
-            "hyderabad",
-            "lakh"
-          ]
-        },
         "Indian Express": {
           "top_keywords": [
             "delhi",
             "khan",
-            "police",
-            "years",
-            "year",
+            "government",
             "pune",
             "indian",
+            "first",
             "mumbai",
+            "police",
+            "daily",
+            "gujarat"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "kerala",
+            "police",
+            "water",
             "government",
-            "back"
+            "state",
+            "under",
+            "against",
+            "karnataka",
+            "lakh",
+            "august"
           ]
         },
         "Times of India": {
           "top_keywords": [
-            "police",
-            "family",
-            "city",
-            "england",
-            "china",
+            "google",
+            "fire",
             "cricket",
-            "year",
+            "housing",
+            "these",
             "army",
-            "india",
-            "these"
+            "return",
+            "test",
+            "court",
+            "family"
           ]
         },
         "NDTV": {
           "top_keywords": [
-            "police",
+            "market",
+            "opinion",
+            "sensex",
             "assam",
             "government",
+            "video",
+            "china",
             "dead",
-            "hussain",
-            "indian",
-            "killed",
-            "representational",
-            "tahir",
-            "death"
+            "injured",
+            "killed"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.176,
-          "The Hindu": 0.176,
-          "Times of India": 0.111
+          "NDTV": 0.053,
+          "The Hindu": 0.111,
+          "Times of India": 0.0
         },
         "NDTV": {
-          "Indian Express": 0.176,
-          "The Hindu": 0.111,
-          "Times of India": 0.053
+          "Indian Express": 0.053,
+          "The Hindu": 0.053,
+          "Times of India": 0.0
         },
         "The Hindu": {
-          "Indian Express": 0.176,
-          "NDTV": 0.111,
-          "Times of India": 0.111
-        },
-        "Times of India": {
           "Indian Express": 0.111,
           "NDTV": 0.053,
-          "The Hindu": 0.111
+          "Times of India": 0.0
+        },
+        "Times of India": {
+          "Indian Express": 0.0,
+          "NDTV": 0.0,
+          "The Hindu": 0.0
         }
       }
     },
     {
-      "topic": "says-cjp-minister",
-      "sources": {
-        "The Hindu": {
-          "top_keywords": [
-            "minister",
-            "students",
-            "chief",
-            "kerala",
-            "labour",
-            "government",
-            "union",
-            "against",
-            "protest",
-            "should"
-          ]
-        },
-        "Indian Express": {
-          "top_keywords": [
-            "students",
-            "jantar",
-            "mantar",
-            "protest",
-            "wangchuk",
-            "sonam",
-            "minister",
-            "delhi",
-            "protesters",
-            "centre"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "wangchuk",
-            "delhi",
-            "congress",
-            "sonam",
-            "hunger",
-            "minister",
-            "strike",
-            "protest",
-            "party",
-            "police"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "minister",
-            "protesters",
-            "action",
-            "delhi",
-            "against",
-            "bittu",
-            "contest",
-            "government",
-            "legal",
-            "likely"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "NDTV": 0.176,
-          "The Hindu": 0.176,
-          "Times of India": 0.333
-        },
-        "NDTV": {
-          "Indian Express": 0.176,
-          "The Hindu": 0.176,
-          "Times of India": 0.111
-        },
-        "The Hindu": {
-          "Indian Express": 0.176,
-          "NDTV": 0.176,
-          "Times of India": 0.111
-        },
-        "Times of India": {
-          "Indian Express": 0.333,
-          "NDTV": 0.111,
-          "The Hindu": 0.111
-        }
-      }
-    },
-    {
-      "topic": "india-iran-hormuz",
+      "topic": "india-supreme-court-supreme",
       "sources": {
         "Indian Express": {
           "top_keywords": [
             "india",
-            "iran",
-            "hormuz",
-            "trump",
+            "court",
+            "supreme",
             "live",
-            "strait",
+            "games",
+            "commonwealth",
+            "medal",
+            "test",
             "england",
-            "indian",
-            "strikes",
-            "t20i"
+            "list"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "india",
-            "iran",
+            "games",
+            "tariffs",
+            "test",
+            "commonwealth",
+            "series",
             "t20i",
             "captain",
-            "hormuz",
-            "military",
-            "nuclear",
-            "pakistan",
-            "series",
-            "strikes"
+            "gold",
+            "pakistan"
           ]
         },
         "The Hindu": {
           "top_keywords": [
             "india",
+            "court",
+            "supreme",
             "trade",
-            "agreement",
-            "deal",
             "defence",
             "economic",
+            "forced",
             "global",
+            "labour",
+            "pakistan"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "india",
+            "force",
             "pakistan",
-            "affairs",
-            "comprehensive"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "iran",
-            "market",
-            "india",
-            "sensex",
-            "stock",
-            "opinion",
-            "highlights",
-            "hormuz",
-            "khamenei",
-            "trump"
+            "task",
+            "change",
+            "climate",
+            "court",
+            "exam",
+            "flood",
+            "investor"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.25,
-          "The Hindu": 0.053,
-          "Times of India": 0.333
+          "NDTV": 0.111,
+          "The Hindu": 0.176,
+          "Times of India": 0.25
         },
         "NDTV": {
-          "Indian Express": 0.25,
-          "The Hindu": 0.053,
-          "Times of India": 0.176
-        },
-        "The Hindu": {
-          "Indian Express": 0.053,
-          "NDTV": 0.053,
-          "Times of India": 0.111
-        },
-        "Times of India": {
-          "Indian Express": 0.333,
-          "NDTV": 0.176,
-          "The Hindu": 0.111
-        }
-      }
-    },
-    {
-      "topic": "2026-world-cup",
-      "sources": {
-        "Indian Express": {
-          "top_keywords": [
-            "world",
-            "india",
-            "july",
-            "live",
-            "games",
-            "commonwealth",
-            "list",
-            "gold",
-            "fifa",
-            "medal"
-          ]
-        },
-        "Times of India": {
-          "top_keywords": [
-            "fifa",
-            "world",
-            "games",
-            "argentina",
-            "commonwealth",
-            "india",
-            "record",
-            "egypt",
-            "final",
-            "first"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "fifa",
-            "matches",
-            "world",
-            "restaurants",
-            "till",
-            "assam",
-            "bengaluru",
-            "extend",
-            "football",
-            "former"
-          ]
-        }
-      },
-      "keyword_overlap": {
-        "Indian Express": {
-          "The Hindu": 0.111,
-          "Times of India": 0.333
-        },
-        "The Hindu": {
           "Indian Express": 0.111,
+          "The Hindu": 0.176,
+          "Times of India": 0.111
+        },
+        "The Hindu": {
+          "Indian Express": 0.176,
+          "NDTV": 0.176,
           "Times of India": 0.111
         },
         "Times of India": {
-          "Indian Express": 0.333,
+          "Indian Express": 0.25,
+          "NDTV": 0.111,
           "The Hindu": 0.111
         }
       }
@@ -315,58 +171,58 @@
       "sources": {
         "Indian Express": {
           "top_keywords": [
-            "crore",
             "lakh",
-            "worth",
-            "earns",
-            "assets",
+            "crore",
+            "payout",
+            "woman",
+            "bank",
+            "office",
             "delhi",
+            "film",
             "gets",
-            "house",
-            "indian",
-            "woman"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "crore",
-            "lakh",
-            "development",
-            "scheme",
-            "temple",
-            "alleges",
-            "around",
-            "bengal",
-            "centre",
-            "corporate"
+            "collection"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "crore",
-            "cabinet",
             "lakh",
-            "project",
+            "cabinet",
+            "film",
             "scheme",
-            "approved",
             "mumbai",
+            "refund",
             "anushka",
-            "approves",
+            "approved",
             "business"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "lakh",
+            "crore",
+            "scheme",
+            "bengal",
+            "centre",
+            "corporate",
+            "hour",
+            "roads",
+            "allots",
+            "approves"
           ]
         },
         "NDTV": {
           "top_keywords": [
             "crore",
+            "mumbai",
             "lakh",
             "fraud",
             "approves",
-            "arrested",
             "cabinet",
             "call",
             "centres",
-            "exploration",
-            "fy27"
+            "city",
+            "exploration"
           ]
         }
       },
@@ -374,22 +230,188 @@
         "Indian Express": {
           "NDTV": 0.111,
           "The Hindu": 0.111,
-          "Times of India": 0.111
+          "Times of India": 0.176
         },
         "NDTV": {
           "Indian Express": 0.111,
-          "The Hindu": 0.111,
+          "The Hindu": 0.176,
           "Times of India": 0.25
         },
         "The Hindu": {
           "Indian Express": 0.111,
-          "NDTV": 0.111,
+          "NDTV": 0.176,
           "Times of India": 0.176
         },
         "Times of India": {
-          "Indian Express": 0.111,
+          "Indian Express": 0.176,
           "NDTV": 0.25,
           "The Hindu": 0.176
+        }
+      }
+    },
+    {
+      "topic": "students-cjp-jantar-mantar",
+      "sources": {
+        "Indian Express": {
+          "top_keywords": [
+            "students",
+            "jantar",
+            "mantar",
+            "wangchuk",
+            "protest",
+            "sonam",
+            "delhi",
+            "protests",
+            "government",
+            "leak"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "wangchuk",
+            "delhi",
+            "government",
+            "paper",
+            "sonam",
+            "hunger",
+            "leak",
+            "strike",
+            "students",
+            "protest"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "students",
+            "protest",
+            "against",
+            "government",
+            "cases",
+            "delhi",
+            "wangchuk",
+            "fast",
+            "hunger",
+            "jantar"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "live",
+            "protesters",
+            "updates",
+            "paper",
+            "parliament",
+            "session",
+            "delhi",
+            "leak",
+            "monsoon",
+            "action"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.111,
+          "The Hindu": 0.429,
+          "Times of India": 0.538
+        },
+        "NDTV": {
+          "Indian Express": 0.111,
+          "The Hindu": 0.053,
+          "Times of India": 0.176
+        },
+        "The Hindu": {
+          "Indian Express": 0.429,
+          "NDTV": 0.053,
+          "Times of India": 0.429
+        },
+        "Times of India": {
+          "Indian Express": 0.538,
+          "NDTV": 0.176,
+          "The Hindu": 0.429
+        }
+      }
+    },
+    {
+      "topic": "police-old-man",
+      "sources": {
+        "The Hindu": {
+          "top_keywords": [
+            "police",
+            "arrested",
+            "year",
+            "allegedly",
+            "death",
+            "murder",
+            "thiruvananthapuram",
+            "arrest",
+            "dispute",
+            "kerala"
+          ]
+        },
+        "Indian Express": {
+          "top_keywords": [
+            "year",
+            "police",
+            "arrested",
+            "court",
+            "girl",
+            "murder",
+            "protest",
+            "rape",
+            "woman",
+            "death"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "police",
+            "year",
+            "allegedly",
+            "driver",
+            "woman",
+            "body",
+            "death",
+            "family",
+            "group",
+            "noodles"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "police",
+            "arrested",
+            "death",
+            "year",
+            "girl",
+            "assam",
+            "body",
+            "locals",
+            "wife",
+            "atluri"
+          ]
+        }
+      },
+      "keyword_overlap": {
+        "Indian Express": {
+          "NDTV": 0.333,
+          "The Hindu": 0.333,
+          "Times of India": 0.25
+        },
+        "NDTV": {
+          "Indian Express": 0.333,
+          "The Hindu": 0.25,
+          "Times of India": 0.25
+        },
+        "The Hindu": {
+          "Indian Express": 0.333,
+          "NDTV": 0.25,
+          "Times of India": 0.25
+        },
+        "Times of India": {
+          "Indian Express": 0.25,
+          "NDTV": 0.25,
+          "The Hindu": 0.25
         }
       }
     }
