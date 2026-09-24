@@ -1,48 +1,48 @@
 {
   "topics": [
     {
-      "topic": "new-says-ai",
+      "topic": "world-ai-years",
       "sources": {
         "Indian Express": {
           "top_keywords": [
-            "delhi",
             "khan",
-            "indian",
+            "world",
             "years",
+            "mumbai",
+            "pune",
             "government",
             "rain",
+            "year",
             "maharashtra",
-            "students",
-            "pune",
             "against"
-          ]
-        },
-        "The Hindu": {
-          "top_keywords": [
-            "minister",
-            "government",
-            "water",
-            "chief",
-            "against",
-            "telangana",
-            "lakh",
-            "karnataka",
-            "state",
-            "august"
           ]
         },
         "Times of India": {
           "top_keywords": [
+            "world",
+            "fifa",
             "google",
-            "delhi",
-            "family",
-            "court",
-            "india",
-            "city",
-            "first",
-            "property",
+            "england",
+            "pakistan",
+            "these",
+            "china",
+            "million",
             "test",
-            "these"
+            "trade"
+          ]
+        },
+        "The Hindu": {
+          "top_keywords": [
+            "kerala",
+            "government",
+            "water",
+            "year",
+            "against",
+            "district",
+            "july",
+            "august",
+            "bengaluru",
+            "lakh"
           ]
         },
         "NDTV": {
@@ -51,150 +51,150 @@
             "government",
             "market",
             "sensex",
-            "minister",
+            "video",
+            "were",
+            "floods",
+            "highlights",
             "opinion",
-            "china",
-            "dead",
-            "delhi",
             "representational"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.111,
-          "The Hindu": 0.111,
+          "NDTV": 0.053,
+          "The Hindu": 0.176,
           "Times of India": 0.053
         },
         "NDTV": {
-          "Indian Express": 0.111,
-          "The Hindu": 0.111,
-          "Times of India": 0.053
+          "Indian Express": 0.053,
+          "The Hindu": 0.053,
+          "Times of India": 0.0
         },
         "The Hindu": {
-          "Indian Express": 0.111,
-          "NDTV": 0.111,
+          "Indian Express": 0.176,
+          "NDTV": 0.053,
           "Times of India": 0.0
         },
         "Times of India": {
           "Indian Express": 0.053,
-          "NDTV": 0.053,
+          "NDTV": 0.0,
           "The Hindu": 0.0
         }
       }
     },
     {
-      "topic": "police-mumbai-old",
+      "topic": "says-police-family",
       "sources": {
         "The Hindu": {
           "top_keywords": [
             "police",
-            "year",
+            "government",
+            "kerala",
             "arrested",
-            "case",
             "death",
-            "murder",
-            "station",
-            "allegedly",
-            "house",
-            "killed"
+            "minister",
+            "state",
+            "karnataka",
+            "student",
+            "family"
           ]
         },
         "Indian Express": {
           "top_keywords": [
             "police",
+            "family",
+            "dead",
             "mumbai",
-            "year",
-            "killed",
-            "delhi",
-            "injured",
-            "arrested",
-            "death",
-            "pune",
-            "murder"
+            "years",
+            "home",
+            "bengaluru",
+            "khan",
+            "murder",
+            "found"
           ]
         },
         "Times of India": {
           "top_keywords": [
-            "police",
-            "delhi",
-            "year",
-            "death",
-            "injured",
             "family",
-            "mumbai",
-            "allegedly",
+            "police",
+            "death",
+            "building",
+            "dead",
             "died",
-            "driver"
+            "driver",
+            "father",
+            "bieniemy",
+            "brooklyn"
           ]
         },
         "NDTV": {
           "top_keywords": [
             "police",
-            "mumbai",
-            "gandhi",
-            "rahul",
+            "dead",
+            "ceuta",
             "arrested",
-            "delhi",
+            "fire",
+            "french",
+            "help",
             "injured",
-            "pellet",
-            "victim",
-            "year"
+            "investigation",
+            "punjab"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.429,
-          "The Hindu": 0.429,
-          "Times of India": 0.429
+          "NDTV": 0.111,
+          "The Hindu": 0.111,
+          "Times of India": 0.176
         },
         "NDTV": {
-          "Indian Express": 0.429,
-          "The Hindu": 0.176,
-          "Times of India": 0.333
+          "Indian Express": 0.111,
+          "The Hindu": 0.111,
+          "Times of India": 0.111
         },
         "The Hindu": {
-          "Indian Express": 0.429,
-          "NDTV": 0.176,
-          "Times of India": 0.25
+          "Indian Express": 0.111,
+          "NDTV": 0.111,
+          "Times of India": 0.176
         },
         "Times of India": {
-          "Indian Express": 0.429,
-          "NDTV": 0.333,
-          "The Hindu": 0.25
+          "Indian Express": 0.176,
+          "NDTV": 0.111,
+          "The Hindu": 0.176
         }
       }
     },
     {
-      "topic": "india-games-live",
+      "topic": "india-test-vs",
       "sources": {
         "Indian Express": {
           "top_keywords": [
             "india",
-            "live",
-            "games",
-            "commonwealth",
-            "medal",
-            "july",
             "test",
             "england",
-            "updates",
-            "knowledge"
+            "live",
+            "knowledge",
+            "nugget",
+            "t20i",
+            "zimbabwe",
+            "lanka",
+            "runs"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "india",
-            "games",
             "test",
             "pakistan",
-            "commonwealth",
             "series",
             "t20i",
             "galle",
-            "gold",
-            "england"
+            "gambhir",
+            "england",
+            "sharma",
+            "against"
           ]
         },
         "The Hindu": {
@@ -202,11 +202,11 @@
             "india",
             "trade",
             "economic",
-            "pakistan",
             "deal",
             "forced",
             "global",
             "labour",
+            "pakistan",
             "affairs",
             "agreement"
           ]
@@ -214,15 +214,15 @@
         "NDTV": {
           "top_keywords": [
             "india",
-            "weather",
-            "force",
             "pakistan",
-            "task",
+            "beyond",
             "change",
             "climate",
-            "exam",
             "flood",
-            "important"
+            "important",
+            "income",
+            "investor",
+            "lakh"
           ]
         }
       },
@@ -230,7 +230,7 @@
         "Indian Express": {
           "NDTV": 0.053,
           "The Hindu": 0.053,
-          "Times of India": 0.333
+          "Times of India": 0.25
         },
         "NDTV": {
           "Indian Express": 0.053,
@@ -243,7 +243,7 @@
           "Times of India": 0.111
         },
         "Times of India": {
-          "Indian Express": 0.333,
+          "Indian Express": 0.25,
           "NDTV": 0.111,
           "The Hindu": 0.111
         }
@@ -261,157 +261,157 @@
             "film",
             "office",
             "bank",
-            "kerala",
             "claim",
-            "earns"
-          ]
-        },
-        "NDTV": {
-          "top_keywords": [
-            "crore",
-            "lakh",
-            "crane",
-            "fraud",
-            "fy27",
-            "india",
-            "sawan",
-            "sooryavanshi",
-            "vaibhav",
-            "whatsapp"
+            "gets",
+            "kerala"
           ]
         },
         "Times of India": {
           "top_keywords": [
             "crore",
             "lakh",
+            "cabinet",
             "film",
+            "scheme",
+            "mumbai",
+            "project",
             "refund",
-            "business",
-            "cyber",
-            "developer",
-            "eight",
-            "gold",
-            "kulhari"
+            "anushka",
+            "approved"
           ]
         },
         "The Hindu": {
           "top_keywords": [
+            "crore",
             "lakh",
+            "scheme",
+            "corporate",
+            "government",
             "hour",
-            "ceremonial",
-            "chariot",
-            "count",
-            "giri",
-            "left",
-            "many",
-            "noon",
-            "pradakshina"
+            "approves",
+            "around",
+            "assistance",
+            "attract"
+          ]
+        },
+        "NDTV": {
+          "top_keywords": [
+            "crore",
+            "lakh",
+            "mumbai",
+            "approves",
+            "cabinet",
+            "city",
+            "crane",
+            "exploration",
+            "fraud",
+            "fy27"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
           "NDTV": 0.111,
-          "The Hindu": 0.053,
+          "The Hindu": 0.111,
           "Times of India": 0.176
         },
         "NDTV": {
           "Indian Express": 0.111,
-          "The Hindu": 0.053,
-          "Times of India": 0.111
+          "The Hindu": 0.176,
+          "Times of India": 0.25
         },
         "The Hindu": {
-          "Indian Express": 0.053,
-          "NDTV": 0.053,
-          "Times of India": 0.053
+          "Indian Express": 0.111,
+          "NDTV": 0.176,
+          "Times of India": 0.176
         },
         "Times of India": {
           "Indian Express": 0.176,
-          "NDTV": 0.111,
-          "The Hindu": 0.053
+          "NDTV": 0.25,
+          "The Hindu": 0.176
         }
       }
     },
     {
-      "topic": "bjp-congress-pradhan",
+      "topic": "court-high-court-high",
       "sources": {
-        "Times of India": {
-          "top_keywords": [
-            "paper",
-            "leak",
-            "party",
-            "minister",
-            "congress",
-            "pradhan",
-            "government",
-            "neet",
-            "bill",
-            "leaders"
-          ]
-        },
         "Indian Express": {
           "top_keywords": [
-            "congress",
-            "pradhan",
-            "leak",
-            "paper",
-            "gandhi",
-            "rahul",
-            "dharmendra",
-            "punjab",
-            "resignation",
-            "bill"
+            "court",
+            "high",
+            "supreme",
+            "case",
+            "delhi",
+            "karnataka",
+            "kerala",
+            "against",
+            "plea",
+            "calcutta"
           ]
         },
         "The Hindu": {
           "top_keywords": [
-            "congress",
+            "court",
+            "high",
+            "kerala",
+            "supreme",
             "against",
-            "rahul",
-            "students",
-            "leak",
-            "paper",
-            "gandhi",
+            "case",
+            "government",
+            "state",
+            "justice",
+            "plea"
+          ]
+        },
+        "Times of India": {
+          "top_keywords": [
+            "court",
+            "supreme",
+            "case",
             "minister",
-            "party",
-            "pradhan"
+            "tariffs",
+            "election",
+            "government",
+            "questioned",
+            "same",
+            "teachers"
           ]
         },
         "NDTV": {
           "top_keywords": [
-            "paper",
-            "parliament",
-            "session",
-            "congress",
-            "leak",
-            "live",
-            "monsoon",
-            "opinion",
-            "pradhan",
-            "updates"
+            "court",
+            "high",
+            "canteen",
+            "cases",
+            "khan",
+            "oath",
+            "accompanied",
+            "administered",
+            "against",
+            "assault"
           ]
         }
       },
       "keyword_overlap": {
         "Indian Express": {
-          "NDTV": 0.25,
-          "The Hindu": 0.429,
-          "Times of India": 0.333
+          "NDTV": 0.176,
+          "The Hindu": 0.538,
+          "Times of India": 0.176
         },
         "NDTV": {
-          "Indian Express": 0.25,
-          "The Hindu": 0.25,
-          "Times of India": 0.25
+          "Indian Express": 0.176,
+          "The Hindu": 0.176,
+          "Times of India": 0.053
         },
         "The Hindu": {
-          "Indian Express": 0.429,
-          "NDTV": 0.25,
-          "Times of India": 0.429
+          "Indian Express": 0.538,
+          "NDTV": 0.176,
+          "Times of India": 0.25
         },
         "Times of India": {
-          "Indian Express": 0.333,
-          "NDTV": 0.25,
-          "The Hindu": 0.429
+          "Indian Express": 0.176,
+          "NDTV": 0.053,
+          "The Hindu": 0.25
         }
       }
     }
